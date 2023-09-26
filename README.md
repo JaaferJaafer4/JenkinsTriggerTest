@@ -1,1 +1,1 @@
-# JenkinsTriggerTest ok
+# JenkinsTriggerTest
